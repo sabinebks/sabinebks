@@ -33,10 +33,10 @@ Ce portfolio distingue les projets auxquels j’ai contribué des templates en c
 | [Tower Defense](https://github.com/sabinebks/tower-defense) | Défendre un plateau contre des vagues de ballons, gérer les tours et les ressources. | Projet universitaire en équipe · Java · 79 tests existants réussis |
 | [Goose Game](https://github.com/sabinebks/goose-game) | Simuler un jeu de l’oie en console avec plusieurs joueurs et des cases spéciales. | Projet pédagogique · Java · 7 tests existants réussis · limites du moteur documentées |
 | [Bataille navale](https://github.com/sabinebks/bataille-navale) | Modéliser un plateau, des positions et des bateaux. | TP Java · prototype incomplet, non compilable en l’état |
-| [Medusa](https://github.com/sabinebks/medusa) | Explorer une base de boutique en ligne avec catalogue, panier, commande et espace client. | Fork de Medusa DTC Starter · en cours d’appropriation |
-| [LangChain](https://github.com/sabinebks/langchain) | Explorer le chat IA, les agents avec outils et la recherche dans des documents. | Fork de LangChain + Next.js · en cours d’appropriation |
+| [Shopflow](https://github.com/sabinebks/shopflow) | Explorer une base de boutique en ligne avec catalogue, panier, commande et espace client. | TypeScript · Medusa · Next.js · base en cours d’appropriation |
+| [Neural Chat](https://github.com/sabinebks/neural-chat) | Explorer le chat IA, les agents avec outils et la recherche dans des documents. | TypeScript · LangChain.js · Next.js · base en cours d’appropriation |
 
-Les fonctionnalités de Medusa et de LangChain proviennent de leurs auteurs respectifs. Les README des deux forks conservent leurs licences, leur attribution et leur documentation technique.
+Shopflow s’appuie sur [Medusa DTC Starter](https://github.com/medusajs/dtc-starter) et Neural Chat sur [LangChain + Next.js](https://github.com/langchain-ai/langchain-nextjs-template). Les fonctionnalités de ces bases proviennent de leurs auteurs respectifs ; leurs licences et leur documentation technique sont conservées.
 
 ## Contact
 
