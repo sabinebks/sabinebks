@@ -1,12 +1,20 @@
 <div align="center">
-
-# Boukais Sabine
-
-**Étudiante en Licence 3 informatique · Université de Lille**
-
-[Projets](#projets) · [Technologies](#technologies) · [Contact](#contact)
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sabine%20BOUKAIS&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Architect%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=58&animation=twinkling" width="100%"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/said-lkert">
+    <img src="https://komarev.com/ghpvc/?username=sabinebks&color=00d4ff&style=flat-square&label=Profile+views" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Building%20things%20that%20matter-00d4ff?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-France%2C%20Algeria%20🇩🇿-00d4ff?style=flat-square"/>
+</div>
+
+<br/>
 
 ---
 
